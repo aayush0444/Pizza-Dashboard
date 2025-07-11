@@ -77,6 +77,10 @@ Dynamic visualizations for peak hours, daily trends, and best sellers
 
 Fully interactive donut, bar, and area charts
 
+preview
+![Pizza Dashboard](https://raw.githubusercontent.com/aayush0444/Pizza-Sales-Dashboard/main/pizza_dashboard.png)
+
+
 👨‍💻 Author
 Aayush Kumar Redhu
 📍 Zirakpur, Punjab
