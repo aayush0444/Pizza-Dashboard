@@ -78,7 +78,7 @@ Dynamic visualizations for peak hours, daily trends, and best sellers
 Fully interactive donut, bar, and area charts
 
 preview
-![Pizza Dashboard](https://raw.githubusercontent.com/aayush0444/Pizza-Sales-Dashboard/main/pizza_dashboard.png)
+![Pizza Dashboard](https://github.com/aayush0444/Pizza-Dashboard/blob/main/Screenshot%202025-07-11%20220751.png)
 
 
 👨‍💻 Author
